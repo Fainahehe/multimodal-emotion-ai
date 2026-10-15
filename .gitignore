@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Multimodal Emotion AI project
+
+# Virtual environment
+.venv/
+
+# Large MELD dataset and extracted features
+data/
+
+# Downloaded archives and feature files
+*.tar.gz
+*.pkl
+
+# Local logs
+*.log
+
+# Streamlit secrets
+.streamlit/secrets.toml
